@@ -165,3 +165,7 @@ dataset/sign_imgs/
 
 
 *.png
+yolov8/misc/
+yolov8/runs/
+
+

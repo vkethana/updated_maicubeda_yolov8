@@ -1,0 +1,3682 @@
+{
+  "#9cad89c2-9620-4261-ab32-9baad116ec2d": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "purpose": "Line",
+        "value": "2",
+        "source": "http://purl.org/cuneiform/Line"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Charindex",
+        "value": "1",
+        "source": "http://purl.org/cuneiform/CharacterIndex"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wordindex",
+        "value": "1",
+        "source": "http://purl.org/cuneiform/WordIndex"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "RelCharindex",
+        "value": "0",
+        "source": "http://purl.org/cuneiform/RelativeCharacterIndex"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_2_1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"163.9379119873047,198.56549072265625 293.51031494140625,191.83445739746094 298.55859375,356.7447814941406 163.9379119873047,355.0620422363281\"></polygon></svg>"
+      },
+      "rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "dimensions": {
+        "x": 1038,
+        "y": 976
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#9cad89c2-9620-4261-ab32-9baad116ec2d",
+    "creator": {
+      "id": "https://orcid.org/0000-0002-9499-5840",
+      "type": "Person",
+      "name": "Timo Homburg",
+      "nickname": "situx"
+    },
+    "generator": {
+      "id": "https://github.com/recogito/annotorious-openseadragon",
+      "type": "Software",
+      "name": "Annotorious-OpenSeadragon 1.5.6",
+      "homepage": "https://github.com/recogito/annotorious-openseadragon"
+    },
+    "rights": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "#158f74b0-b9b1-47ca-8430-705f1d2f1f85": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "purpose": "Column",
+        "value": "1",
+        "source": "http://purl.org/cuneiform/Column"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Line",
+        "value": "2",
+        "source": "http://purl.org/cuneiform/Line"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Charindex",
+        "value": "2",
+        "source": "http://purl.org/cuneiform/CharacterIndex"
+      },
+      {
+        "type": "TextualBody",
+        "value": "Character",
+        "purpose": "classifying",
+        "source": "http://purl.org/cuneiform/Character"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wordindex",
+        "value": "2",
+        "source": "http://purl.org/cuneiform/WordIndex"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "RelCharindex",
+        "value": "0",
+        "source": "http://purl.org/cuneiform/RelativeCharacterIndex"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_1_2_2"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"298.55859375,228.8551483154297 535.8275146484375,230.53790283203125 534.144775390625,375.255126953125 303.60687255859375,373.5723571777344\"></polygon></svg>"
+      },
+      "rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "dimensions": {
+        "x": 1038,
+        "y": 976
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#158f74b0-b9b1-47ca-8430-705f1d2f1f85",
+    "creator": {
+      "id": "https://orcid.org/0000-0002-9499-5840",
+      "type": "Person",
+      "name": "Timo Homburg",
+      "nickname": "situx"
+    },
+    "generator": {
+      "id": "https://github.com/recogito/annotorious-openseadragon",
+      "type": "Software",
+      "name": "Annotorious-OpenSeadragon 1.5.6",
+      "homepage": "https://github.com/recogito/annotorious-openseadragon"
+    },
+    "rights": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "#67f9587a-79e8-4c42-a772-f450bfbfee24": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "purpose": "Line",
+        "value": "4",
+        "source": "http://purl.org/cuneiform/Line"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Charindex",
+        "value": "1",
+        "source": "http://purl.org/cuneiform/CharacterIndex"
+      },
+      {
+        "type": "TextualBody",
+        "value": "Character",
+        "purpose": "classifying",
+        "source": "http://purl.org/cuneiform/Character"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Transliteration",
+        "value": "2(asz@c)",
+        "source": "http://purl.org/cuneiform/Transliteration"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wordindex",
+        "value": "1",
+        "source": "http://purl.org/cuneiform/WordIndex"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "RelCharindex",
+        "value": "0",
+        "source": "http://purl.org/cuneiform/RelativeCharacterIndex"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_4_1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"29.317237854003906,637.7654418945312 200.95860290527344,639.4481811523438 200.95860290527344,723.5861206054688 30.999998092651367,721.9033813476562\"></polygon></svg>"
+      },
+      "rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "dimensions": {
+        "x": 1038,
+        "y": 976
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#67f9587a-79e8-4c42-a772-f450bfbfee24",
+    "creator": {
+      "id": "https://orcid.org/0000-0002-9499-5840",
+      "type": "Person",
+      "name": "Timo Homburg",
+      "nickname": "situx"
+    },
+    "generator": {
+      "id": "https://github.com/recogito/annotorious-openseadragon",
+      "type": "Software",
+      "name": "Annotorious-OpenSeadragon 1.5.6",
+      "homepage": "https://github.com/recogito/annotorious-openseadragon"
+    },
+    "rights": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "#e45a1b0c-c5b0-4ea9-80b1-5f4e4f457818": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "purpose": "Transliteration",
+        "value": "masz2",
+        "source": "http://purl.org/cuneiform/Transliteration"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Column",
+        "value": "1",
+        "source": "http://purl.org/cuneiform/Column"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Line",
+        "value": "4",
+        "source": "http://purl.org/cuneiform/Line"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Charindex",
+        "value": "1",
+        "source": "http://purl.org/cuneiform/CharacterIndex"
+      },
+      {
+        "type": "TextualBody",
+        "value": "Character",
+        "purpose": "classifying",
+        "source": "http://purl.org/cuneiform/Character"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wordindex",
+        "value": "1",
+        "source": "http://purl.org/cuneiform/WordIndex"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "RelCharindex",
+        "value": "0",
+        "source": "http://purl.org/cuneiform/RelativeCharacterIndex"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_1_4_1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"450.0068359375,620.9378662109375 229.56549072265625,625.9861450195312 229.56549072265625,742.0964965820312 455.05511474609375,728.6343994140625\"></polygon></svg>"
+      },
+      "rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "dimensions": {
+        "x": 1038,
+        "y": 976
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e45a1b0c-c5b0-4ea9-80b1-5f4e4f457818",
+    "creator": {
+      "id": "https://orcid.org/0000-0002-9499-5840",
+      "type": "Person",
+      "name": "Timo Homburg",
+      "nickname": "situx"
+    },
+    "generator": {
+      "id": "https://github.com/recogito/annotorious-openseadragon",
+      "type": "Software",
+      "name": "Annotorious-OpenSeadragon 1.5.6",
+      "homepage": "https://github.com/recogito/annotorious-openseadragon"
+    },
+    "rights": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "#9cc2ec29-2b14-4ca2-91db-7db1476aafa7": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "purpose": "Transliteration",
+        "value": "nim",
+        "source": "http://purl.org/cuneiform/Transliteration"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Column",
+        "value": "1",
+        "source": "http://purl.org/cuneiform/Column"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Line",
+        "value": "5",
+        "source": "http://purl.org/cuneiform/Line"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Charindex",
+        "value": "1",
+        "source": "http://purl.org/cuneiform/CharacterIndex"
+      },
+      {
+        "type": "TextualBody",
+        "value": "Character",
+        "purpose": "classifying",
+        "source": "http://purl.org/cuneiform/Character"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wordindex",
+        "value": "1",
+        "source": "http://purl.org/cuneiform/WordIndex"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "RelCharindex",
+        "value": "0",
+        "source": "http://purl.org/cuneiform/RelativeCharacterIndex"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_1_5_1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"431.4964904785156,758.924072265625 224.5172119140625,769.0206298828125 229.56549072265625,925.5171508789062 436.5447692871094,901.95849609375\"></polygon></svg>"
+      },
+      "rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "dimensions": {
+        "x": 1038,
+        "y": 976
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#9cc2ec29-2b14-4ca2-91db-7db1476aafa7",
+    "creator": {
+      "id": "https://orcid.org/0000-0002-9499-5840",
+      "type": "Person",
+      "name": "Timo Homburg",
+      "nickname": "situx"
+    },
+    "generator": {
+      "id": "https://github.com/recogito/annotorious-openseadragon",
+      "type": "Software",
+      "name": "Annotorious-OpenSeadragon 1.5.6",
+      "homepage": "https://github.com/recogito/annotorious-openseadragon"
+    },
+    "rights": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "#c17df51e-b03f-40d5-b1d6-04515dfde4fa": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "purpose": "Transliteration",
+        "value": "nin",
+        "source": "http://purl.org/cuneiform/Transliteration"
+      },
+      {
+        "type": "TextualBody",
+        "value": "Character",
+        "purpose": "classifying",
+        "source": "http://purl.org/cuneiform/Character"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"508.90338134765625,393.7654724121094 320.4344482421875,395.4482421875 318.7516784667969,496.4137268066406 510.5861511230469,498.09649658203125\"></polygon></svg>"
+      },
+      "rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "dimensions": {
+        "x": 1038,
+        "y": 976
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c17df51e-b03f-40d5-b1d6-04515dfde4fa",
+    "creator": {
+      "id": "https://orcid.org/0000-0002-9499-5840",
+      "type": "Person",
+      "name": "Timo Homburg",
+      "nickname": "situx"
+    },
+    "generator": {
+      "id": "https://github.com/recogito/annotorious-openseadragon",
+      "type": "Software",
+      "name": "Annotorious-OpenSeadragon 1.5.6",
+      "homepage": "https://github.com/recogito/annotorious-openseadragon"
+    },
+    "rights": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "#05757fff-d110-4cb0-92b0-5108632a1ad0": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "purpose": "Transliteration",
+        "value": "ugula",
+        "source": "http://purl.org/cuneiform/Transliteration"
+      },
+      {
+        "type": "TextualBody",
+        "value": "Character",
+        "purpose": "classifying",
+        "source": "http://purl.org/cuneiform/Character"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"725.979248046875,427.420654296875 556.0206298828125,417.3240966796875 550.9723510742188,558.67578125 722.6137084960938,553.6275024414062\"></polygon></svg>"
+      },
+      "rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "dimensions": {
+        "x": 1038,
+        "y": 976
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#05757fff-d110-4cb0-92b0-5108632a1ad0",
+    "creator": {
+      "id": "https://orcid.org/0000-0002-9499-5840",
+      "type": "Person",
+      "name": "Timo Homburg",
+      "nickname": "situx"
+    },
+    "generator": {
+      "id": "https://github.com/recogito/annotorious-openseadragon",
+      "type": "Software",
+      "name": "Annotorious-OpenSeadragon 1.5.6",
+      "homepage": "https://github.com/recogito/annotorious-openseadragon"
+    },
+    "rights": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "#371e19e3-cd26-4383-9599-51696aa7cd61": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "purpose": "Transliteration",
+        "value": "e2",
+        "source": "http://purl.org/cuneiform/Transliteration"
+      },
+      {
+        "type": "TextualBody",
+        "value": "Character",
+        "purpose": "classifying",
+        "source": "http://purl.org/cuneiform/Character"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"927.9102172851562,419.0068359375 729.3447265625,417.3240966796875 727.6619873046875,550.2620239257812 922.8619384765625,553.6275024414062\"></polygon></svg>"
+      },
+      "rights": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "dimensions": {
+        "x": 1038,
+        "y": 976
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#371e19e3-cd26-4383-9599-51696aa7cd61",
+    "creator": {
+      "id": "https://orcid.org/0000-0002-9499-5840",
+      "type": "Person",
+      "name": "Timo Homburg",
+      "nickname": "situx"
+    },
+    "generator": {
+      "id": "https://github.com/recogito/annotorious-openseadragon",
+      "type": "Software",
+      "name": "Annotorious-OpenSeadragon 1.5.6",
+      "homepage": "https://github.com/recogito/annotorious-openseadragon"
+    },
+    "rights": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "#8c2bcc9a-8332-4d0b-9094-05170b678f67": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "purpose": "Transliteration",
+        "value": "d"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Column",
+        "value": "1"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Line",
+        "value": "3",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Charindex",
+        "value": "2",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "value": "Character",
+        "purpose": "classifying",
+        "source": "http://purl.org/cuneiform/Character"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_1_3_2"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"317.1624450683594,417.88507080078125 193.292724609375,420.22222900390625 186.28123474121094,521.888916015625 317.1624450683594,523.0574951171875\"></polygon></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#8c2bcc9a-8332-4d0b-9094-05170b678f67"
+  },
+  "#1bec1df6-2895-41aa-924a-e265da2863da": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "purpose": "Transliteration",
+        "value": "urta",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Line",
+        "value": "3",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Charindex",
+        "value": "4",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "value": "Character",
+        "purpose": "classifying",
+        "source": "http://purl.org/cuneiform/Character"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_3_4"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"514.6528930664062,491.5057678222656 314.8252868652344,497.3486633300781 312.4881286621094,596.6781616210938 511.1471252441406,590.8352661132812\"></polygon></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#1bec1df6-2895-41aa-924a-e265da2863da"
+  },
+  "#95e96602-da4c-402f-97fd-0d455e86e4cf": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "purpose": "Transliteration",
+        "value": "nin",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Line",
+        "value": "3",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Charindex",
+        "value": "1",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "value": "Character",
+        "purpose": "classifying",
+        "source": "http://purl.org/cuneiform/Character"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_3_1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"23.84827423095703,387.5019226074219 196.79847717285156,383.9961853027344 189.78697204589844,542.9234008789062 18.00536346435547,544.0919799804688\"></polygon></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#95e96602-da4c-402f-97fd-0d455e86e4cf"
+  },
+  "#785ce618-a94b-4dc5-b412-b861049c8ab0": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "purpose": "Transliteration",
+        "value": "lugal",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Column",
+        "value": "2"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Line",
+        "value": "2",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Charindex",
+        "value": "1",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "value": "Character",
+        "purpose": "classifying",
+        "source": "http://purl.org/cuneiform/Character"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_2_2_1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"862.149169921875,193.46971130371094 572.6004638671875,197.364990234375 566.1083374023438,306.43267822265625 869.9397583007812,299.9405517578125\"></polygon></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#785ce618-a94b-4dc5-b412-b861049c8ab0"
+  },
+  "#02cfdb5d-14b8-4321-a6b2-a81c59095b0c": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "purpose": "Transliteration",
+        "value": "ezem",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Column",
+        "value": "2"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Line",
+        "value": "2",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Charindex",
+        "value": "2",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "value": "Character",
+        "purpose": "classifying",
+        "source": "http://purl.org/cuneiform/Character"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_2_2_2"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"966.023193359375,279.1657409667969 688.1602783203125,290.8515625 680.3696899414062,401.2176818847656 966.023193359375,415.5003662109375\"></polygon></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#02cfdb5d-14b8-4321-a6b2-a81c59095b0c"
+  },
+  "#0016a99e-db8c-49c5-abfc-6b714cd39bb7": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "d"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"377.29998779296875,163.1999969482422 401.6000061035156,192.1999969482422 482.8999938964844,134.1999969482422 461.3999938964844,119.19999694824219\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#0016a99e-db8c-49c5-abfc-6b714cd39bb7"
+  },
+  "#44bc1d5d-e165-465e-8fc2-60acc03e0ec2": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"416.5544128417969,90.25785827636719 472.6463623046875,131.39195251464844 481.9950256347656,125.78276062011719 441.7957763671875,73.4302749633789\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#44bc1d5d-e165-465e-8fc2-60acc03e0ec2"
+  },
+  "#f94f8f1c-8904-4a11-ab4f-f69bf6d6b956": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"618.0999755859375,90.4000015258789 617.2000122070312,145.8000030517578 689.9000244140625,137.60000610351562 692.5999755859375,111.30000305175781\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f94f8f1c-8904-4a11-ab4f-f69bf6d6b956"
+  },
+  "#ef878899-7e04-470a-8df5-e527b8284abf": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"562.5999755859375,77.5999984741211 559.9000244140625,128.60000610351562 608.0999755859375,132.1999969482422 616.2999877929688,84\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ef878899-7e04-470a-8df5-e527b8284abf"
+  },
+  "#e32ed5c0-9cc6-47dc-8664-b40c0e8e58ea": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"753.5432739257812,121.28632354736328 759.9069213867188,196.74085998535156 778.0887451171875,199.4681396484375 778.0887451171875,125.83177947998047\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e32ed5c0-9cc6-47dc-8664-b40c0e8e58ea"
+  },
+  "#df248ba6-810b-46c7-b39e-537ce946d197": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"173.66500854492188,232.47401428222656 174.5740966796875,324.2922058105469 195.48318481445312,323.3830871582031 199.1195526123047,231.56492614746094\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#df248ba6-810b-46c7-b39e-537ce946d197"
+  },
+  "#d2f1a00f-838b-41ab-bdb1-d27368593e8d": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"211.84683227539062,220.6558380126953 214.5740966796875,324.2922058105469 232.75592041015625,326.1103820800781 240.93772888183594,218.837646484375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d2f1a00f-838b-41ab-bdb1-d27368593e8d"
+  },
+  "#de3c1db7-5568-45ac-8122-dadc3d847409": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"177.30137634277344,319.7467346191406 177.30137634277344,347.01947021484375 285.4831848144531,345.2012939453125 281.8468322753906,335.2012939453125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#de3c1db7-5568-45ac-8122-dadc3d847409"
+  },
+  "#3e336124-2b25-4265-b864-9856f6485805": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"180,195.1999969482422 180.89999389648438,227.89999389648438 259.1000061035156,222.5 258.20001220703125,206.10000610351562\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#3e336124-2b25-4265-b864-9856f6485805"
+  },
+  "#cc5a7999-bd5f-4066-8df1-e7941a6b9fa3": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"257.3013610839844,204.2921905517578 267.3013610839844,330.65582275390625 285.4831848144531,333.3830871582031 294.5740966796875,208.837646484375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#cc5a7999-bd5f-4066-8df1-e7941a6b9fa3"
+  },
+  "#b28dabe2-d559-475c-b436-33cc7ac13510": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"451.8468322753906,291.5649108886719 477.3013610839844,358.837646484375 491.8468322753906,351.5649108886719 481.8468322753906,282.4739990234375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#b28dabe2-d559-475c-b436-33cc7ac13510"
+  },
+  "#6555e1e6-b356-4ff3-ad38-59f0ec380c63": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"479.1195373535156,344.29217529296875 477.3013610839844,358.837646484375 510.02862548828125,366.1103820800781 509.1195373535156,360.65582275390625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#6555e1e6-b356-4ff3-ad38-59f0ec380c63"
+  },
+  "#5286990e-45a6-4fa9-938e-a1377e663fa8": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"502.75592041015625,247.01947021484375 497.3013610839844,364.29217529296875 512.7559204101562,367.9285583496094 533.6649780273438,255.20127868652344\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#5286990e-45a6-4fa9-938e-a1377e663fa8"
+  },
+  "#494adccd-99b4-47bd-8b53-8448e9f2dd45": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"377.3013610839844,283.3830871582031 373.6650085449219,310.65582275390625 460.937744140625,298.837646484375 463.6650085449219,283.3830871582031\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#494adccd-99b4-47bd-8b53-8448e9f2dd45"
+  },
+  "#08a5bf35-d6b1-4172-88db-643a51a953b2": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"307.3013610839844,256.1103820800781 306.39227294921875,302.4739990234375 362.75592041015625,290.65582275390625 362.75592041015625,279.7467346191406\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#08a5bf35-d6b1-4172-88db-643a51a953b2"
+  },
+  "#562fafdb-9f9e-4394-9783-b788a1fa3d7d": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"356.39227294921875,258.837646484375 358.21044921875,347.01947021484375 371.8468322753906,347.9285583496094 380.0286560058594,267.01947021484375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#562fafdb-9f9e-4394-9783-b788a1fa3d7d"
+  },
+  "#fb5779a5-09ca-4926-b02c-8066029c432d": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"402.79998779296875,258.79998779296875 404.6000061035156,342.5 418.20001220703125,342.5 425.5,259.70001220703125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#fb5779a5-09ca-4926-b02c-8066029c432d"
+  },
+  "#160669b8-ef94-4809-8095-2544e3b71cca": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"357.29998779296875,239.6999969482422 360,277 502.79998779296875,255.1999969482422 502.79998779296875,245.1999969482422\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#160669b8-ef94-4809-8095-2544e3b71cca"
+  },
+  "#59ce1ce1-4c66-4d9a-ac56-0f66fd40b0b5": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"811.8612060546875,178.2730712890625 769.1339721679688,210.09124755859375 822.7703247070312,261.0003356933594 840.0430297851562,255.54579162597656\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#59ce1ce1-4c66-4d9a-ac56-0f66fd40b0b5"
+  },
+  "#0996cf57-d875-4f8b-83d2-9ba83e8f9ada": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"810.9521484375,259.1821594238281 820.0430297851562,281.0003356933594 853.6793823242188,274.6366882324219 846.4066772460938,257.3639831542969\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#0996cf57-d875-4f8b-83d2-9ba83e8f9ada"
+  },
+  "#7fdcf272-5f96-41fe-bd24-a91a668d485c": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"734.5885009765625,208.2730712890625 734.5885009765625,231.00033569335938 784.5885009765625,232.81851196289062 782.7703247070312,219.18215942382812\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#7fdcf272-5f96-41fe-bd24-a91a668d485c"
+  },
+  "#38c45f15-cf17-40e1-ad40-f269d8418295": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"731.8612060546875,219.18215942382812 725.4976196289062,265.5457763671875 747.3157958984375,266.45489501953125 760.0430297851562,217.3639678955078\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#38c45f15-cf17-40e1-ad40-f269d8418295"
+  },
+  "#0df94e5a-143c-4585-98f1-364609f8827d": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"777.2999877929688,230.10000610351562 746.4000244140625,250.10000610351562 772.7999877929688,280.1000061035156 784.5999755859375,277.3999938964844\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#0df94e5a-143c-4585-98f1-364609f8827d"
+  },
+  "#21eb652b-2c27-4ae6-a22a-394cf7abd88b": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"734.5999755859375,265.5 732.7999877929688,293.70001220703125 796.4000244140625,292.79998779296875 793.7000122070312,279.20001220703125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#21eb652b-2c27-4ae6-a22a-394cf7abd88b"
+  },
+  "#7cf3a03c-6f78-4599-8216-2756078f2f5d": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"638.224853515625,257.3639831542969 636.4066772460938,291.0003356933594 728.224853515625,291.0003356933594 725.4976196289062,278.2730712890625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#7cf3a03c-6f78-4599-8216-2756078f2f5d"
+  },
+  "#db64e76f-cbb0-429b-8832-b23b718248b0": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"646.4066772460938,186.4548797607422 638.224853515625,315.5457763671875 652.7703247070312,316.45489501953125 692.7703247070312,200.09124755859375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#db64e76f-cbb0-429b-8832-b23b718248b0"
+  },
+  "#6d23747b-eed9-4dd4-a574-706c5798d6c6": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"580.0430297851562,273.72760009765625 580.0430297851562,299.1821594238281 635.4976196289062,295.5457763671875 633.679443359375,283.72760009765625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#6d23747b-eed9-4dd4-a574-706c5798d6c6"
+  },
+  "#728a3e07-1782-4d9c-97c3-2072e69b43e5": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"581.8612670898438,253.7276153564453 581.8612670898438,270.09124755859375 637.3157958984375,275.5457763671875 635.4976196289062,263.72760009765625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#728a3e07-1782-4d9c-97c3-2072e69b43e5"
+  },
+  "#5bb90679-9b03-426e-a427-fb9419c34444": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"583.679443359375,226.4548797607422 583.679443359375,250.09124755859375 639.1339721679688,255.54579162597656 640.9521484375,243.7276153564453\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#5bb90679-9b03-426e-a427-fb9419c34444"
+  },
+  "#b657ef6f-21c7-4525-bcc3-903223e29294": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"934.3129272460938,342.4599304199219 937.9492797851562,408.82354736328125 959.7674560546875,410.6417541503906 974.3129272460938,349.732666015625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#b657ef6f-21c7-4525-bcc3-903223e29294"
+  },
+  "#6661e6f4-d23f-4a2d-8599-c6b0ab4013c6": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"863.4038696289062,290.6417541503906 844.3129272460938,375.18719482421875 861.585693359375,377.9144592285156 890.6765747070312,294.2781066894531\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#6661e6f4-d23f-4a2d-8599-c6b0ab4013c6"
+  },
+  "#d5df7796-86ee-4173-b1f7-5c1b22ce334f": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"788.8583984375,261.55084228515625 792.4947509765625,306.0962829589844 875.2220458984375,306.0962829589844 873.4038696289062,292.4599304199219\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d5df7796-86ee-4173-b1f7-5c1b22ce334f"
+  },
+  "#edc982a2-f752-4009-8bb3-11604aa3bf77": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"790.6765747070312,297.9144592285156 782.4947509765625,385.18719482421875 797.9492797851562,389.7326354980469 813.4038696289062,302.4599304199219\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#edc982a2-f752-4009-8bb3-11604aa3bf77"
+  },
+  "#47445abc-367f-4fd0-a315-831344c57bac": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"697.9493408203125,303.3690185546875 697.0402221679688,335.18719482421875 786.131103515625,334.2781066894531 785.2220458984375,318.82354736328125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#47445abc-367f-4fd0-a315-831344c57bac"
+  },
+  "#935d43f9-989b-43ff-b83d-708138149012": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"705.2000122070312,318.79998779296875 689.7999877929688,367 706.0999755859375,368.79998779296875 723.4000244140625,321.6000061035156\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#935d43f9-989b-43ff-b83d-708138149012"
+  },
+  "#99405bb4-83ee-4ebf-a3a1-72ad8f11381a": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"692.5,348.79998779296875 689.7999877929688,371.6000061035156 770.7000122070312,375.20001220703125 773.4000244140625,354.29998779296875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#99405bb4-83ee-4ebf-a3a1-72ad8f11381a"
+  },
+  "#99505f02-4da7-4159-8f84-b0d1b5e294aa": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"854.5999755859375,311.70001220703125 849.2000122070312,344.5 928.2999877929688,345.3999938964844 933.7000122070312,332.70001220703125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#99505f02-4da7-4159-8f84-b0d1b5e294aa"
+  },
+  "#5a8f0b6b-065e-4624-be6d-edbd51e54619": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"848.2999877929688,348.1000061035156 842.7999877929688,378.1000061035156 929.2000122070312,377.20001220703125 929.2000122070312,361.70001220703125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#5a8f0b6b-065e-4624-be6d-edbd51e54619"
+  },
+  "#3db549da-0b50-4280-b9fd-3a5d57338882": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"24.399999618530273,414.1000061035156 24.399999618530273,512.2999877929688 48.900001525878906,510.5 48.900001525878906,414.1000061035156\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#3db549da-0b50-4280-b9fd-3a5d57338882"
+  },
+  "#95fbd2c8-0472-4aec-ba78-56418bbaba1d": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"57.11767578125,390.4871826171875 43.4813117980957,431.3962707519531 116.20858001708984,460.4871826171875 124.39039611816406,446.850830078125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#95fbd2c8-0472-4aec-ba78-56418bbaba1d"
+  },
+  "#525f4df3-57e9-45aa-8cfe-44c7ac68ba53": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"48.935855865478516,437.7599182128906 46.20858383178711,475.03265380859375 120.75403594970703,464.1235656738281 120.75403594970703,453.2144775390625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#525f4df3-57e9-45aa-8cfe-44c7ac68ba53"
+  },
+  "#e4d8deeb-e5c3-4a6f-88dd-cba526e0723b": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "d"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"99.8449478149414,462.30535888671875 44.39039993286133,495.03265380859375 60.75403594970703,525.9417114257812 118.93585205078125,475.9417419433594\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e4d8deeb-e5c3-4a6f-88dd-cba526e0723b"
+  },
+  "#f38818a5-4fa3-4afe-8397-f68dc289bbff": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"113.48130798339844,503.2144470214844 113.48130798339844,551.3963012695312 200.7540283203125,536.850830078125 201.66311645507812,525.0326538085938\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f38818a5-4fa3-4afe-8397-f68dc289bbff"
+  },
+  "#47b0fb7d-43c2-4ddb-93f4-187975e46206": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"125.29949188232422,456.850830078125 123.48130798339844,480.4871826171875 175.2994842529297,480.4871826171875 176.2085723876953,464.1235656738281\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#47b0fb7d-43c2-4ddb-93f4-187975e46206"
+  },
+  "#de32c635-bf45-4648-8b5b-1c0727060d6e": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"123.48130798339844,428.66900634765625 125.29949188232422,453.2144775390625 170.7540283203125,448.66900634765625 168.02676391601562,431.3962707519531\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#de32c635-bf45-4648-8b5b-1c0727060d6e"
+  },
+  "#a3e0ad01-f2eb-4864-b3b0-0add1a974e88": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"172.5722198486328,381.3962707519531 170.7540283203125,521.3963012695312 191.66311645507812,522.3053588867188 209.84494018554688,385.03265380859375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#a3e0ad01-f2eb-4864-b3b0-0add1a974e88"
+  },
+  "#bf0bafd5-68dc-47f9-9619-be7d91ece74b": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"120.75403594970703,375.9417419433594 118.93585205078125,504.1235656738281 136.20858764648438,505.03265380859375 168.02676391601562,384.1235656738281\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#bf0bafd5-68dc-47f9-9619-be7d91ece74b"
+  },
+  "#f577d731-a869-4f64-b4ab-47faf437227e": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "f"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"308.0267639160156,425.9417419433594 285.2994689941406,455.9417419433594 296.2085876464844,461.3962707519531 321.6631164550781,440.4871826171875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f577d731-a869-4f64-b4ab-47faf437227e"
+  },
+  "#c70dbbf4-56a4-4a0f-9cc5-122ee98be5c1": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "e"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "PaleoCode",
+        "value": "",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"265.29998779296875,483.20001220703125 286.20001220703125,510.5 299.79998779296875,502.29998779296875 276.20001220703125,473.20001220703125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c70dbbf4-56a4-4a0f-9cc5-122ee98be5c1"
+  },
+  "#46b09b37-3a99-4e81-b4fb-d79db042bf68": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"224.39039611816406,437.7599182128906 242.5722198486328,455.9417419433594 254.39039611816406,445.9417419433594 242.5722198486328,425.03265380859375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#46b09b37-3a99-4e81-b4fb-d79db042bf68"
+  },
+  "#a0034bcf-f12a-4535-9546-564f33aaa8b7": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "d"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"218.93585205078125,485.9417419433594 242.5722198486328,506.850830078125 262.57220458984375,476.850830078125 251.66311645507812,463.2144775390625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#a0034bcf-f12a-4535-9546-564f33aaa8b7"
+  },
+  "#4ec20182-9e9f-4bda-b060-2f8f7f1988b4": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"187.11767578125,434.1235656738281 188.02676391601562,479.5780944824219 318.93585205078125,474.1235656738281 318.93585205078125,461.3962707519531\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#4ec20182-9e9f-4bda-b060-2f8f7f1988b4"
+  },
+  "#f8b94557-d0c2-4f87-8033-67ae7e74bc7a": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"246.2085723876953,420.4871826171875 255.2994842529297,527.7598876953125 269.8449401855469,529.578125 299.8449401855469,426.850830078125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f8b94557-d0c2-4f87-8033-67ae7e74bc7a"
+  },
+  "#f6eed0b4-1624-486b-8771-e395269e9deb": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"329.79998779296875,420.5 390.79998779296875,445.8999938964844 402.6000061035156,436.8999938964844 348.8999938964844,395\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f6eed0b4-1624-486b-8771-e395269e9deb"
+  },
+  "#a7bdb1dd-2a01-483e-baed-308ecbd3afe9": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "d"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"322.5722351074219,466.850830078125 332.5722351074219,495.9417419433594 402.57220458984375,470.4871826171875 397.11767578125,463.2144470214844\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#a7bdb1dd-2a01-483e-baed-308ecbd3afe9"
+  },
+  "#fa45aade-2618-4323-976a-946074be3e5b": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"322.5722351074219,416.850830078125 323.4813232421875,467.7599182128906 344.3904113769531,469.5780944824219 350.7540283203125,424.1235656738281\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#fa45aade-2618-4323-976a-946074be3e5b"
+  },
+  "#f71043e6-dc03-4567-ad29-da83d71777a0": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"355.29998779296875,436.8999938964844 346.20001220703125,463.20001220703125 406.20001220703125,464.1000061035156 409.79998779296875,454.1000061035156\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f71043e6-dc03-4567-ad29-da83d71777a0"
+  },
+  "#a39e0849-482f-4b79-a33b-1a16cdb3bf85": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"462.57220458984375,386.850830078125 463.4812927246094,513.2144775390625 479.8449401855469,515.0326538085938 504.390380859375,395.03265380859375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#a39e0849-482f-4b79-a33b-1a16cdb3bf85"
+  },
+  "#9f8ea2e2-eeb4-49ad-b6fe-fae0ac237071": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"407.11767578125,412.30535888671875 408.0267639160156,490.4871826171875 429.8449401855469,490.4871826171875 433.4812927246094,416.850830078125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#9f8ea2e2-eeb4-49ad-b6fe-fae0ac237071"
+  },
+  "#6859bd59-8bc3-46d7-b6e7-392424513227": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"415.29949951171875,390.4871826171875 416.2085876464844,421.3962707519531 465.29949951171875,414.1235656738281 464.3904113769531,403.2144470214844\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#6859bd59-8bc3-46d7-b6e7-392424513227"
+  },
+  "#81e1c81c-f523-4b22-b8cf-ad93ba4e0f3c": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"402.5722351074219,496.850830078125 391.6631164550781,573.2144775390625 408.0267639160156,573.2144775390625 428.0267639160156,499.5780944824219\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#81e1c81c-f523-4b22-b8cf-ad93ba4e0f3c"
+  },
+  "#73d3d826-fcbe-4c95-b6f7-181a3b97fb7f": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"429.8449401855469,503.2144470214844 418.93585205078125,571.3963012695312 438.0267639160156,574.12353515625 452.57220458984375,505.03265380859375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#73d3d826-fcbe-4c95-b6f7-181a3b97fb7f"
+  },
+  "#4d21838d-df1e-48f1-913e-5cf5b9ad418f": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"348.93585205078125,513.2144775390625 348.0267639160156,554.12353515625 398.93585205078125,547.7598876953125 399.8449401855469,531.3963012695312\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#4d21838d-df1e-48f1-913e-5cf5b9ad418f"
+  },
+  "#f8e830f7-24d0-4fab-ba00-a74d4e1c5224": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"462.57220458984375,515.0326538085938 465.29949951171875,614.12353515625 482.57220458984375,615.0326538085938 508.0267639160156,520.4871826171875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f8e830f7-24d0-4fab-ba00-a74d4e1c5224"
+  },
+  "#e8b1872f-de11-4daa-af8c-736539a10a85": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"312.5722351074219,547.7598876953125 313.4813232421875,580.4871826171875 443.4813232421875,585.0326538085938 448.0267639160156,574.12353515625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e8b1872f-de11-4daa-af8c-736539a10a85"
+  },
+  "#a61b1217-9a27-4716-92dc-db6ceeaffa57": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"309.8449401855469,496.850830078125 315.29949951171875,553.2144775390625 333.4813232421875,554.12353515625 339.8449401855469,500.4871826171875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#a61b1217-9a27-4716-92dc-db6ceeaffa57"
+  },
+  "#d0c039da-74ce-4a5b-9e7a-2f998e1241d1": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"309.8449401855469,494.1235656738281 310.7540283203125,522.3053588867188 370.7540283203125,508.66900634765625 372.5722351074219,499.5780944824219\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d0c039da-74ce-4a5b-9e7a-2f998e1241d1"
+  },
+  "#4340b877-a8f6-47fb-abd8-fcd45b9128bd": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"620.7805786132812,428.5375671386719 615.3260498046875,564.9011840820312 637.1442260742188,564.9011840820312 661.689697265625,431.26483154296875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#4340b877-a8f6-47fb-abd8-fcd45b9128bd"
+  },
+  "#f1caf9df-9d9f-4ab3-bd8f-41cbe144f337": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"567.0999755859375,447.6000061035156 567.0999755859375,484.8999938964844 725.2999877929688,480.3999938964844 726.2000122070312,466.70001220703125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f1caf9df-9d9f-4ab3-bd8f-41cbe144f337"
+  },
+  "#e65a2f7a-cfca-4e5f-bb86-e40268c9ab9b": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"556.2351684570312,476.7193908691406 556.2351684570312,516.7193603515625 718.96240234375,510.3557434082031 718.0533447265625,497.62847900390625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e65a2f7a-cfca-4e5f-bb86-e40268c9ab9b"
+  },
+  "#78275fa3-2117-4b1c-ba65-b9424bb13b7e": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"882.5999755859375,453.1000061035156 884.4000244140625,536.7000122070312 906.2000122070312,538.5 919,455.79998779296875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#78275fa3-2117-4b1c-ba65-b9424bb13b7e"
+  },
+  "#19b75f5b-77d4-4541-b18f-5175ac3740eb": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"726.2351684570312,509.4466552734375 727.1442260742188,526.7193603515625 883.5078735351562,530.3557739257812 881.689697265625,518.53759765625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#19b75f5b-77d4-4541-b18f-5175ac3740eb"
+  },
+  "#b6e5ee10-664b-4958-b9d5-a043acec5354": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"739.9000244140625,488.5 880.7999877929688,489.3999938964844 880.7999877929688,504 740.7999877929688,503.1000061035156\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#b6e5ee10-664b-4958-b9d5-a043acec5354"
+  },
+  "#426ed132-c144-4ce7-90ba-ff00b6e17ea6": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"735.3260498046875,463.99212646484375 733.5078735351562,484.9012145996094 880.7805786132812,486.7193908691406 880.7805786132812,477.62847900390625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#426ed132-c144-4ce7-90ba-ff00b6e17ea6"
+  },
+  "#f07c971a-d60f-415d-a58c-ce3fdaaa0435": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"729.8715209960938,439.4466552734375 726.2351684570312,523.9921264648438 739.8715209960938,523.9921264648438 756.2351684570312,440.3557434082031\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f07c971a-d60f-415d-a58c-ce3fdaaa0435"
+  },
+  "#cb2c4f9c-48ee-4148-9e77-403baff4faa6": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"741.7000122070312,424 739.9000244140625,454.8999938964844 870.7999877929688,457.6000061035156 870.7999877929688,445.79998779296875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#cb2c4f9c-48ee-4148-9e77-403baff4faa6"
+  },
+  "#d2608c05-e5f5-447d-b70a-0656bf39dfa0": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"756.2000122070312,448.5 751.7000122070312,514.9000244140625 767.0999755859375,514.9000244140625 771.7000122070312,450.3999938964844\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d2608c05-e5f5-447d-b70a-0656bf39dfa0"
+  },
+  "#73836a6c-0d07-4b00-b7ec-104c81a63ddf": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"780.7999877929688,449.3999938964844 776.2000122070312,520.4000244140625 791.7000122070312,521.2999877929688 796.2000122070312,450.3999938964844\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#73836a6c-0d07-4b00-b7ec-104c81a63ddf"
+  },
+  "#7da05af9-5b67-410a-82ba-5d36e544c557": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"36.42255401611328,649.2230834960938 37.33164596557617,714.6776123046875 90.05891418457031,711.041259765625 90.96800994873047,652.8594360351562\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#7da05af9-5b67-410a-82ba-5d36e544c557"
+  },
+  "#6f6a0985-52c8-4776-81ea-7ba0ad1163c8": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"106.42255401611328,654.6776123046875 109.14982604980469,719.2230834960938 191.87709045410156,710.1321411132812 191.87709045410156,655.5867309570312\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#6f6a0985-52c8-4776-81ea-7ba0ad1163c8"
+  },
+  "#0f46be35-cf12-4790-8d82-8f0b76662a63": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "d",
+        "dimensions": {
+          "x": 1038,
+          "y": 976
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"380.1384582519531,630.49072265625 341.9566345214844,678.6725463867188 375.5929870605469,689.5816040039062 397.41119384765625,655.0361938476562\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#0f46be35-cf12-4790-8d82-8f0b76662a63"
+  },
+  "#776f2f1d-1747-4cbc-92c2-e58c1e91998f": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"350.1000061035156,672.2999877929688 391,702.2999877929688 386.5,715.9000244140625 339.20001220703125,697.7999877929688\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#776f2f1d-1747-4cbc-92c2-e58c1e91998f"
+  },
+  "#538ff37e-edf9-40fc-8d24-7d73895fb257": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"375.6000061035156,641.4000244140625 429.20001220703125,677.7999877929688 443.79998779296875,665 416.5,615\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#538ff37e-edf9-40fc-8d24-7d73895fb257"
+  },
+  "#f16c9b81-ffd5-4ddb-8766-2ae1777009b9": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "d"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"383.7748107910156,711.3998413085938 416.5021057128906,734.1270751953125 453.7748107910156,673.218017578125 444.68389892578125,664.1270751953125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f16c9b81-ffd5-4ddb-8766-2ae1777009b9"
+  },
+  "#d6b15561-901d-46e3-8ed3-e310b60a9646": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"232.86573791503906,672.3088989257812 232.86573791503906,719.5816040039062 341.9566345214844,699.5816040039062 341.04754638671875,685.0361938476562\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d6b15561-901d-46e3-8ed3-e310b60a9646"
+  },
+  "#e2d665b1-f06e-4d79-a918-666bcb395d41": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"282,658.7000122070312 291,736.9000244140625 308.29998779296875,735 324.70001220703125,655\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e2d665b1-f06e-4d79-a918-666bcb395d41"
+  },
+  "#a7c67830-d850-45e0-b5c2-50ea86744a5a": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "d"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"234.21481323242188,831.82177734375 241.487548828125,884.549072265625 366.0329895019531,837.2763061523438 357.8511657714844,827.2763061523438\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#a7c67830-d850-45e0-b5c2-50ea86744a5a"
+  },
+  "#34507474-056e-4d07-a80e-eab0e6c7c8aa": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"245.1239013671875,780.9126586914062 235.1239013671875,823.6399536132812 372.3966369628906,831.82177734375 372.3966369628906,819.094482421875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#34507474-056e-4d07-a80e-eab0e6c7c8aa"
+  },
+  "#484ae2a7-3d4a-4712-a73f-3bc825ce9f6b": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"276.94207763671875,782.7308959960938 307.8511657714844,900.9126586914062 326.0329895019531,899.094482421875 329.66937255859375,775.4581298828125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#484ae2a7-3d4a-4712-a73f-3bc825ce9f6b"
+  },
+  "#764c105c-19a7-4568-a1a2-08f72016535e": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "linking",
+        "value": "http://cdli.ucla.edu/P020590_char_-1_-1_-1"
+      }
+    ],
+    "target": {
+      "source": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1126657:591039/full/full/0/default.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"365.1239013671875,812.7308959960938 374.2148132324219,903.6399536132812 391.487548828125,902.7308959960938 415.1239013671875,816.3672485351562\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#764c105c-19a7-4568-a1a2-08f72016535e"
+  }
+}

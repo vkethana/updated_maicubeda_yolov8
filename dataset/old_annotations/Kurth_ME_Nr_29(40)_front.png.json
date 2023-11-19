@@ -1,0 +1,3926 @@
+{
+  "#d6df443e-fc9f-462b-b4ad-696ab7ec2fdf": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"104.19999694824219,32.29999923706055 143.3000030517578,36.900001525878906 107.80000305175781,74.0999984741211 90.5,73.19999694824219\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d6df443e-fc9f-462b-b4ad-696ab7ec2fdf"
+  },
+  "#4be27a97-c1c9-4dfd-951b-d59992ed4f84": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"143.3000030517578,28.700000762939453 128.6999969482422,60.5 192.39999389648438,45.900001525878906 194.1999969482422,35\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#4be27a97-c1c9-4dfd-951b-d59992ed4f84"
+  },
+  "#f0d577d5-23c5-497a-8e57-472478882c0e": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"139.63131713867188,55.9459114074707 134.17677307128906,84.12773132324219 260.5404052734375,71.40045928955078 261.4494934082031,60.49136734008789\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f0d577d5-23c5-497a-8e57-472478882c0e"
+  },
+  "#a0c9aaea-5318-4838-8a41-291e83813c03": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"60.5,87.80000305175781 61.400001525878906,125.9000015258789 256.8999938964844,103.19999694824219 260.5,87.80000305175781\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#a0c9aaea-5318-4838-8a41-291e83813c03"
+  },
+  "#ec468ea2-2cbf-48a4-9670-dd45466132fe": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"257.79998779296875,34.099998474121094 249.60000610351562,157.8000030517578 272.3999938964844,157.8000030517578 315.1000061035156,37.79999923706055\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ec468ea2-2cbf-48a4-9670-dd45466132fe"
+  },
+  "#d406ab1f-774b-49f1-bf6b-7383d2eb2625": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"322.35858154296875,47.76409149169922 315.9949645996094,96.8550033569336 357.8131408691406,91.40045166015625 371.4494934082031,73.21863555908203\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d406ab1f-774b-49f1-bf6b-7383d2eb2625"
+  },
+  "#e97b5ad4-8115-47b6-a56d-d366be6eb025": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "d"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "PaleoCode",
+        "value": "",
+        "dimensions": {
+          "x": 888,
+          "y": 974
+        }
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"348.72222900390625,78.67317962646484 362.35858154296875,105.03681945800781 526.904052734375,66.8550033569336 517.8131103515625,48.67318344116211\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e97b5ad4-8115-47b6-a56d-d366be6eb025"
+  },
+  "#5672b8a9-6aac-4e10-9fda-005dbbc22d59": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"372.3999938964844,41.400001525878906 354.20001220703125,75 507.79998779296875,101.4000015258789 513.2999877929688,89.5999984741211\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#5672b8a9-6aac-4e10-9fda-005dbbc22d59"
+  },
+  "#81ec9df9-314b-4824-bc09-8c32067057cc": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"416,30.5 396.8999938964844,142.3000030517578 410.5,142.3000030517578 460.5,33.20000076293945\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#81ec9df9-314b-4824-bc09-8c32067057cc"
+  },
+  "#c1b44756-aef9-4805-9fb1-d40b8355a1ab": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"535.0999755859375,55.900001525878906 526.9000244140625,179.60000610351562 546.9000244140625,179.60000610351562 553.2999877929688,64.0999984741211\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c1b44756-aef9-4805-9fb1-d40b8355a1ab"
+  },
+  "#5afc9721-ed00-4974-9494-c678f2dcb6b8": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"575.0999755859375,27.799999237060547 567.7999877929688,162.3000030517578 583.2999877929688,162.3000030517578 606,30.5\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#5afc9721-ed00-4974-9494-c678f2dcb6b8"
+  },
+  "#ecaa55d6-7ddc-4629-b88b-b8eb3580ecbf": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"547.7999877929688,39.599998474121094 543.2999877929688,71.4000015258789 737.7999877929688,69.5999984741211 739.5999755859375,55\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ecaa55d6-7ddc-4629-b88b-b8eb3580ecbf"
+  },
+  "#b8f44b85-34a3-4efe-b6b4-bebb50dda1c1": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"534.2000122070312,80.5 530.5,112.30000305175781 739.5999755859375,109.5999984741211 743.2999877929688,94.0999984741211\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#b8f44b85-34a3-4efe-b6b4-bebb50dda1c1"
+  },
+  "#05946143-66dd-4320-901a-34fdbec71bd7": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"728.7000122070312,36.900001525878906 742.4000244140625,92.30000305175781 756.9000244140625,92.30000305175781 781.4000244140625,34.099998474121094\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#05946143-66dd-4320-901a-34fdbec71bd7"
+  },
+  "#cf4389cd-70d4-496e-a3fa-e2cd74c3fe48": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"731.4000244140625,88.69999694824219 734.2000122070312,187.8000030517578 746.9000244140625,186.89999389648438 769.5999755859375,93.19999694824219\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#cf4389cd-70d4-496e-a3fa-e2cd74c3fe48"
+  },
+  "#f89ff0fa-1444-4bd2-9ca7-7428982eaafc": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"856.904052734375,123.21863555908203 855.9949340820312,155.0368194580078 881.449462890625,162.30953979492188 881.449462890625,146.85499572753906\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f89ff0fa-1444-4bd2-9ca7-7428982eaafc"
+  },
+  "#50264bac-aa81-49f8-bd28-69e0961e1786": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"778.7222290039062,95.94590759277344 779.6312866210938,116.8550033569336 871.449462890625,124.12772369384766 870.5404052734375,105.03681945800781\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#50264bac-aa81-49f8-bd28-69e0961e1786"
+  },
+  "#2c96a6f6-9515-47ef-a53a-b985e41abbb6": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"779.5999755859375,61.400001525878906 785.0999755859375,101.4000015258789 801.4000244140625,100.5 815.0999755859375,60.5\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#2c96a6f6-9515-47ef-a53a-b985e41abbb6"
+  },
+  "#a28041b6-0cbf-4962-a997-1b5e44dabc12": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"815.9949340820312,46.855003356933594 815.9949340820312,65.03681945800781 857.8131103515625,69.582275390625 860.5404052734375,57.76409149169922\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#a28041b6-0cbf-4962-a997-1b5e44dabc12"
+  },
+  "#40cb0533-41fc-491a-b720-b9900f93d27b": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"76.904052734375,191.40045166015625 30.54041862487793,205.0368194580078 71.44950866699219,305.9458923339844 81.44950866699219,295.9458923339844\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#40cb0533-41fc-491a-b720-b9900f93d27b"
+  },
+  "#f9a42941-9fbc-4d21-b795-d0ac5605becc": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"81.44950866699219,169.582275390625 76.904052734375,316.85498046875 88.72223663330078,316.85498046875 126.904052734375,184.1277313232422\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f9a42941-9fbc-4d21-b795-d0ac5605becc"
+  },
+  "#71ed7a50-6521-4e0c-8676-2869f3e70387": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"96.9000015258789,212.3000030517578 94.19999694824219,237.8000030517578 169.60000610351562,234.10000610351562 169.60000610351562,218.6999969482422\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#71ed7a50-6521-4e0c-8676-2869f3e70387"
+  },
+  "#d59bd485-db22-465f-ac6b-afc735b0c8da": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"154.1999969482422,191.39999389648438 147.8000030517578,269.6000061035156 158.6999969482422,269.6000061035156 175.10000610351562,192.3000030517578\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d59bd485-db22-465f-ac6b-afc735b0c8da"
+  },
+  "#b64e34c0-b2d6-4e39-af13-03b6542dc24e": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"204.1999969482422,189.60000610351562 194.1999969482422,264.1000061035156 206.89999389648438,265 219.60000610351562,191.39999389648438\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#b64e34c0-b2d6-4e39-af13-03b6542dc24e"
+  },
+  "#688be8b4-553d-4704-8bb7-b27eb6911d4a": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"156.904052734375,143.2186279296875 155.99496459960938,203.2186279296875 266.904052734375,202.30953979492188 270.5404052734375,178.67318725585938\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#688be8b4-553d-4704-8bb7-b27eb6911d4a"
+  },
+  "#94e47835-3d7e-4474-8e79-97fc40463624": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"167.8000030517578,205.89999389648438 166.89999389648438,232.3000030517578 257.79998779296875,230.5 261.3999938964844,218.6999969482422\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#94e47835-3d7e-4474-8e79-97fc40463624"
+  },
+  "#15f3d41c-366c-4851-8c7e-fefb62ed81d3": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"165.10000610351562,233.1999969482422 161.39999389648438,256.8999938964844 254.1999969482422,252.3000030517578 256,238.6999969482422\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#15f3d41c-366c-4851-8c7e-fefb62ed81d3"
+  },
+  "#867f2727-9b13-4233-ab8d-1ae87d72a102": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"134.17677307128906,252.30953979492188 131.4495086669922,300.4913635253906 260.5404052734375,291.40045166015625 261.4494934082031,279.582275390625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#867f2727-9b13-4233-ab8d-1ae87d72a102"
+  },
+  "#d41b6739-b982-4419-bf8a-37c31ee7ffcf": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"257.8131408691406,192.30953979492188 252.3585968017578,289.582275390625 265.9949645996094,288.6731872558594 287.8131408691406,195.94590759277344\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d41b6739-b982-4419-bf8a-37c31ee7ffcf"
+  },
+  "#bae0f89a-0bdc-4c9d-bbb8-5a3c423171b3": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"316.8999938964844,195.89999389648438 301.3999938964844,259.6000061035156 381.3999938964844,244.10000610351562 384.20001220703125,230.5\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#bae0f89a-0bdc-4c9d-bbb8-5a3c423171b3"
+  },
+  "#9991c3c8-bf69-411d-b3fa-e4b0e54faaf6": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "PaleoCode",
+        "value": "",
+        "dimensions": {
+          "x": 888,
+          "y": 974
+        }
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"385.0858459472656,192.30953979492188 337.8131408691406,225.0368194580078 406.904052734375,319.582275390625 419.6313171386719,312.3095397949219\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#9991c3c8-bf69-411d-b3fa-e4b0e54faaf6"
+  },
+  "#6382d6be-4784-4cde-94c1-25378d91fb2b": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"460.5,157.8000030517578 403.29998779296875,180.5 451.3999938964844,243.1999969482422 461.3999938964844,236.89999389648438\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#6382d6be-4784-4cde-94c1-25378d91fb2b"
+  },
+  "#3efc19db-e238-4051-8ea8-1c19323afdfc": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "f"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"452.3999938964844,197.8000030517578 410.5,332.29998779296875 426.8999938964844,341.3999938964844 486,219.60000610351562\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#3efc19db-e238-4051-8ea8-1c19323afdfc"
+  },
+  "#6366d57a-7819-49f6-87c3-1ebf95ad5d09": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"407.79998779296875,196.89999389648438 403.29998779296875,223.1999969482422 522.4000244140625,225.89999389648438 524.2000122070312,216.89999389648438\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#6366d57a-7819-49f6-87c3-1ebf95ad5d09"
+  },
+  "#e43d285e-2349-4912-8f23-a35551715f6e": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"401.4494934082031,215.0368194580078 397.8131408691406,236.85499572753906 516.904052734375,238.6731719970703 515.9949340820312,230.49136352539062\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e43d285e-2349-4912-8f23-a35551715f6e"
+  },
+  "#6799df58-9a56-435a-942a-4fa4af6a39a3": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"395.1000061035156,233.1999969482422 393.29998779296875,251.39999389648438 502.3999938964844,251.39999389648438 502.3999938964844,244.10000610351562\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#6799df58-9a56-435a-942a-4fa4af6a39a3"
+  },
+  "#b0b57639-2c3f-4652-9a4f-857646e0d70d": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"385.9949645996094,248.6731719970703 385.9949645996094,268.6731872558594 501.4494934082031,268.6731872558594 502.35858154296875,257.76409912109375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#b0b57639-2c3f-4652-9a4f-857646e0d70d"
+  },
+  "#51bf70be-2eb1-481c-97bb-2501cfabe2a6": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"516.9000244140625,175.89999389648438 516,305 534.2000122070312,305.8999938964844 562.4000244140625,183.1999969482422\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#51bf70be-2eb1-481c-97bb-2501cfabe2a6"
+  },
+  "#f90f8f72-676b-42da-a1db-328dc6913c28": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"560.5,183.1999969482422 558.7000122070312,225 586,228.6999969482422 596.9000244140625,188.6999969482422\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f90f8f72-676b-42da-a1db-328dc6913c28"
+  },
+  "#df0af677-78fe-41fb-a179-09dfbc88ea5e": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"551.4000244140625,223.1999969482422 556,312.29998779296875 567.7999877929688,311.3999938964844 586,225\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#df0af677-78fe-41fb-a179-09dfbc88ea5e"
+  },
+  "#64b855e7-f991-43ed-98ad-c226874eddc0": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"738.7222290039062,196.85499572753906 735.0858764648438,207.7640838623047 761.449462890625,220.49136352539062 765.9949340820312,209.582275390625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#64b855e7-f991-43ed-98ad-c226874eddc0"
+  },
+  "#17574242-1a6d-44c5-bacb-9ab5cc3af995": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"730.5,206.89999389648438 721.4000244140625,224.10000610351562 762.4000244140625,242.3000030517578 769.5999755859375,233.1999969482422\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#17574242-1a6d-44c5-bacb-9ab5cc3af995"
+  },
+  "#a32b35c9-217e-4386-9a62-ecc1dee96d42": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"721.4000244140625,221.39999389648438 716.9000244140625,236.89999389648438 761.4000244140625,255.89999389648438 765.0999755859375,250.5\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#a32b35c9-217e-4386-9a62-ecc1dee96d42"
+  },
+  "#30a798eb-ffc8-49c1-ba77-ee384189077c": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"711.449462890625,223.2186279296875 699.6312866210938,250.49136352539062 753.2676391601562,277.76409912109375 762.3585815429688,265.9458923339844\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#30a798eb-ffc8-49c1-ba77-ee384189077c"
+  },
+  "#c6bb63af-b908-4b44-8245-be190bc9b78f": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"684.2000122070312,220.5 651.4000244140625,275.8999938964844 751.4000244140625,297.79998779296875 757.7999877929688,283.20001220703125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c6bb63af-b908-4b44-8245-be190bc9b78f"
+  },
+  "#9ba8e45b-fd03-4255-bcaf-6cc34c866c01": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"679.5999755859375,168.6999969482422 675.0999755859375,215 761.4000244140625,205.89999389648438 762.4000244140625,186.89999389648438\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#9ba8e45b-fd03-4255-bcaf-6cc34c866c01"
+  },
+  "#7343a385-91a6-4358-a3e9-497bb21f20db": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"765.452392578125,179.12037658691406 760.9069213867188,337.30218505859375 775.452392578125,338.2112731933594 799.997802734375,184.57492065429688\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#7343a385-91a6-4358-a3e9-497bb21f20db"
+  },
+  "#c6e282da-f606-4620-8f80-dbef7de58ac1": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"768.2000122070312,214.60000610351562 766.4000244140625,237.3000030517578 879.0999755859375,243.6999969482422 880.9000244140625,224.60000610351562\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c6e282da-f606-4620-8f80-dbef7de58ac1"
+  },
+  "#b3ef2c46-05db-4bc8-9814-6b664cdf6a20": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"775.5,265.5 774.5,286.3999938964844 880.9000244140625,290.8999938964844 880,270.8999938964844\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#b3ef2c46-05db-4bc8-9814-6b664cdf6a20"
+  },
+  "#2f44cba8-41c3-4888-82f2-839400b21481": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"122.69999694824219,338.20001220703125 120,413.70001220703125 191.8000030517578,406.3999938964844 190.89999389648438,389.1000061035156\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#2f44cba8-41c3-4888-82f2-839400b21481"
+  },
+  "#2c52d718-48cd-4070-a06a-0d6aa92bcd59": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"70.90694427490234,339.120361328125 89.0887680053711,410.93853759765625 122.72512817382812,407.30218505859375 95.45240020751953,341.8476257324219\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#2c52d718-48cd-4070-a06a-0d6aa92bcd59"
+  },
+  "#fb1baba8-856d-469f-8797-ab0ed1cbf6d2": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"41.79999923706055,329.1000061035156 42.70000076293945,411.79998779296875 93.5999984741211,410.8999938964844 63.599998474121094,338.20001220703125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#fb1baba8-856d-469f-8797-ab0ed1cbf6d2"
+  },
+  "#cef399d9-bc32-40f0-b771-5a767473666d": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"211.8160400390625,383.6658020019531 220.9069366455078,457.30218505859375 239.08876037597656,459.120361328125 265.452392578125,386.3930969238281\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#cef399d9-bc32-40f0-b771-5a767473666d"
+  },
+  "#a3e133b7-61a0-4341-8ff2-05715dddb44f": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"218.1999969482422,345.5 225.5,389.1000061035156 251.8000030517578,390.8999938964844 290.8999938964844,350.8999938964844\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#a3e133b7-61a0-4341-8ff2-05715dddb44f"
+  },
+  "#2d068a86-91fe-46e1-a7f4-1e36c43da692": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"434.5433044433594,411.8476257324219 464.5433044433594,448.2112731933594 542.72509765625,366.3930969238281 533.6342163085938,360.93853759765625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#2d068a86-91fe-46e1-a7f4-1e36c43da692"
+  },
+  "#be9a086d-81cf-4187-a4a1-82ce2b893134": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"396.3614807128906,396.3930969238281 418.1796569824219,438.2112731933594 474.5433044433594,387.30218505859375 470.90692138671875,379.120361328125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#be9a086d-81cf-4187-a4a1-82ce2b893134"
+  },
+  "#4adfcaae-fe55-4a15-a9a7-a7c2d61d8949": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"506.3614807128906,313.6658020019531 478.1796569824219,369.120361328125 529.9978637695312,410.93853759765625 534.5432739257812,401.8476257324219\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#4adfcaae-fe55-4a15-a9a7-a7c2d61d8949"
+  },
+  "#2099fb19-e9d0-462d-82a4-4016294cc83d": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"475.5,350 461.79998779296875,377.29998779296875 490.8999938964844,398.20001220703125 502.70001220703125,390.8999938964844\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#2099fb19-e9d0-462d-82a4-4016294cc83d"
+  },
+  "#c5378475-1a6d-4d58-b004-97b8ad965126": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"463.63421630859375,348.2112731933594 447.27056884765625,374.57489013671875 482.7251281738281,402.7567138671875 489.0887451171875,398.2112731933594\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c5378475-1a6d-4d58-b004-97b8ad965126"
+  },
+  "#0303fc55-c265-4fb6-8b87-6d5806ebef0c": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"447.27056884765625,339.120361328125 425.452392578125,372.7567138671875 469.9978332519531,413.6658020019531 478.1796569824219,404.57489013671875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#0303fc55-c265-4fb6-8b87-6d5806ebef0c"
+  },
+  "#f50b0ccd-1f9d-49d6-8310-a073dcc55b32": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"423.63421630859375,342.7567138671875 389.0887451171875,366.3930969238281 438.1796569824219,407.30218505859375 443.63421630859375,400.93853759765625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f50b0ccd-1f9d-49d6-8310-a073dcc55b32"
+  },
+  "#652098dd-9bd5-4ad0-b4ec-45f04f56935b": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"541.7000122070312,348 537.0999755859375,382.5 680.7999877929688,389.79998779296875 677.0999755859375,377.1000061035156\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#652098dd-9bd5-4ad0-b4ec-45f04f56935b"
+  },
+  "#c38a00a4-f915-48eb-8420-f9973fa4c3b0": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"535.3123168945312,382.5235290527344 533.494140625,423.4326171875 686.2213745117188,427.0689697265625 685.3123168945312,414.3417053222656\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c38a00a4-f915-48eb-8420-f9973fa4c3b0"
+  },
+  "#9d81229b-2561-413f-be21-2b870ce032c7": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"565.3123168945312,340.7053527832031 580.766845703125,467.0689697265625 595.3123168945312,467.9780578613281 618.9486694335938,345.25079345703125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#9d81229b-2561-413f-be21-2b870ce032c7"
+  },
+  "#621e6e1d-5f51-4196-b8ef-c6b0f5416b92": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"658.9000244140625,330.70001220703125 688,489.79998779296875 699.9000244140625,488.8999938964844 723.5,339.79998779296875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#621e6e1d-5f51-4196-b8ef-c6b0f5416b92"
+  },
+  "#4483e585-8817-487c-ab40-d2b4c4034b0a": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"872.5850219726562,338.88714599609375 851.6759033203125,382.5235290527344 878.9486694335938,420.7053527832031 886.2213745117188,400.7053527832031\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#4483e585-8817-487c-ab40-d2b4c4034b0a"
+  },
+  "#e9a12c71-55d1-47e9-9923-a937b6d37048": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"835.3123168945312,363.4326171875 819.8577270507812,387.0689697265625 837.1304931640625,402.5235290527344 845.3123168945312,394.3417053222656\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e9a12c71-55d1-47e9-9923-a937b6d37048"
+  },
+  "#e7797828-cba5-4485-8900-fc0b74ded60e": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"815.3123168945312,372.5235290527344 796.2213745117188,405.25079345703125 838.03955078125,432.5235290527344 842.5850219726562,421.61444091796875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e7797828-cba5-4485-8900-fc0b74ded60e"
+  },
+  "#8c73a8f6-52c5-4a89-94d0-7357ba510ec6": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"836.2000122070312,391.6000061035156 838,428 853.5,430.70001220703125 858,394.29998779296875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#8c73a8f6-52c5-4a89-94d0-7357ba510ec6"
+  },
+  "#2814727e-5022-4388-83c8-530ab5ac0e30": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"762.5999755859375,426.20001220703125 759.9000244140625,449.79998779296875 864.4000244140625,448.8999938964844 863.5,436.20001220703125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#2814727e-5022-4388-83c8-530ab5ac0e30"
+  },
+  "#599e6581-e4fa-44ce-a6b6-528df2b7c59f": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"724.4031982421875,408.88714599609375 724.4031982421875,443.4326171875 765.3123168945312,440.705322265625 767.1304931640625,431.61444091796875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#599e6581-e4fa-44ce-a6b6-528df2b7c59f"
+  },
+  "#63d9bd08-7665-415a-a7aa-cbf7e4585972": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"745.3123168945312,316.1598815917969 736.2213745117188,370.7053527832031 803.494140625,371.61444091796875 805.3123168945312,355.25079345703125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#63d9bd08-7665-415a-a7aa-cbf7e4585972"
+  },
+  "#c296e6d3-e714-4805-848c-5920a5411aa2": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"730.766845703125,364.3417053222656 730.766845703125,384.3417053222656 800.766845703125,388.88714599609375 805.3123168945312,382.5235290527344\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c296e6d3-e714-4805-848c-5920a5411aa2"
+  },
+  "#cf0abacb-f617-4e57-bc5e-2a9e8cd006d9": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"730.7999877929688,382.5 727.0999755859375,398.8999938964844 797.0999755859375,400.70001220703125 797.0999755859375,393.3999938964844\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#cf0abacb-f617-4e57-bc5e-2a9e8cd006d9"
+  },
+  "#8107d760-57ea-4f57-b503-2426449dbb56": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"727.1304931640625,396.1598815917969 727.1304931640625,413.4326171875 795.3123168945312,411.61444091796875 795.3123168945312,404.3417053222656\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#8107d760-57ea-4f57-b503-2426449dbb56"
+  },
+  "#a2480242-10f1-4967-99cc-c8cef71fe442": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"758,375.29998779296875 767.0999755859375,413.3999938964844 781.7000122070312,413.3999938964844 794.4000244140625,376.20001220703125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#a2480242-10f1-4967-99cc-c8cef71fe442"
+  },
+  "#d81b2ef9-72ef-4fd5-ad73-9657affa16e1": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"92.5999984741211,491.6000061035156 71.69999694824219,528 88,539.7999877929688 105.30000305175781,498.8999938964844\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d81b2ef9-72ef-4fd5-ad73-9657affa16e1"
+  },
+  "#6657f9c0-d93b-43cb-b2f0-b6767a326e3d": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"110.76687622070312,490.7053527832031 91.67597198486328,522.5234985351562 106.22142791748047,537.0689697265625 120.76687622070312,511.61444091796875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#6657f9c0-d93b-43cb-b2f0-b6767a326e3d"
+  },
+  "#a7f5479d-d481-4575-bf37-a6f1f8f01479": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"82.5850601196289,561.6144409179688 96.22142791748047,594.3416748046875 107.1305160522461,587.0689697265625 101.67597198486328,554.3416748046875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#a7f5479d-d481-4575-bf37-a6f1f8f01479"
+  },
+  "#af8a46bd-da2e-400e-b7ac-668632406875": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"79.9000015258789,555.2999877929688 56.20000076293945,568.9000244140625 85.30000305175781,602.5 91.69999694824219,598\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#af8a46bd-da2e-400e-b7ac-668632406875"
+  },
+  "#63e8c2ca-9670-4f67-807c-6eb445a7b071": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"34.40324783325195,504.3417053222656 34.40324783325195,561.6144409179688 173.49415588378906,550.705322265625 171.67596435546875,538.8871459960938\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#63e8c2ca-9670-4f67-807c-6eb445a7b071"
+  },
+  "#e03cb50d-0f51-4678-a8a5-a4e27bde79a3": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"210.76687622070312,500.7053527832031 166.22142028808594,526.159912109375 205.3123321533203,564.3416748046875 219.8577880859375,559.7962646484375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e03cb50d-0f51-4678-a8a5-a4e27bde79a3"
+  },
+  "#e8e78432-b28e-450e-a547-7adf8676e440": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"153.49415588378906,564.3416748046875 220.76687622070312,629.7962646484375 234.4032440185547,625.2507934570312 209.8577880859375,559.7962646484375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e8e78432-b28e-450e-a547-7adf8676e440"
+  },
+  "#d40297dc-d93c-4e65-8501-852aecf9288a": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"284.3999938964844,508 259.8999938964844,526.2000122070312 323.5,581.5999755859375 328.8999938964844,573.4000244140625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d40297dc-d93c-4e65-8501-852aecf9288a"
+  },
+  "#44a331fc-bc3e-4a0c-8b56-414fe2196f28": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"306.2214050292969,507.0689697265625 288.03961181640625,525.2507934570312 328.9486999511719,566.159912109375 334.4032287597656,554.3416748046875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#44a331fc-bc3e-4a0c-8b56-414fe2196f28"
+  },
+  "#2e27b99a-1b99-44b4-84b5-457d54106abb": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"325.31231689453125,507.9780578613281 308.03961181640625,526.159912109375 346.2214050292969,557.0689697265625 352.5850524902344,548.8871459960938\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#2e27b99a-1b99-44b4-84b5-457d54106abb"
+  },
+  "#2398fa2c-2c73-4b5c-99eb-0682c75f01a6": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"352.5850524902344,500.7053527832031 328.9486999511719,521.6144409179688 367.1304931640625,552.5234985351562 376.2214050292969,544.3416748046875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#2398fa2c-2c73-4b5c-99eb-0682c75f01a6"
+  },
+  "#d2289995-bf4e-498d-a60f-f76ec64b709f": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"260.7668762207031,561.6144409179688 278.03961181640625,594.3416748046875 321.67596435546875,557.9780883789062 318.9486999511719,545.2507934570312\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d2289995-bf4e-498d-a60f-f76ec64b709f"
+  },
+  "#059b33e4-1d21-44b2-b657-9e699a64eabe": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"400.79998779296875,516.2000122070312 298.8999938964844,580.7000122070312 328,613.4000244140625 411.70001220703125,525.2999877929688\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#059b33e4-1d21-44b2-b657-9e699a64eabe"
+  },
+  "#cd5efd20-93fe-4400-86d7-5626cb42b3b0": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"508.0395812988281,520.705322265625 503.494140625,559.7962646484375 521.6759643554688,558.8871459960938 526.221435546875,522.5234985351562\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#cd5efd20-93fe-4400-86d7-5626cb42b3b0"
+  },
+  "#8ba87a14-b829-4354-b0d7-23c9637b7aae": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"514.4032592773438,504.3417053222656 552.5850219726562,550.705322265625 566.221435546875,545.2507934570312 558.0396118164062,471.61444091796875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#8ba87a14-b829-4354-b0d7-23c9637b7aae"
+  },
+  "#56ad43cd-fecb-4e77-ae6b-1a3706c43398": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"462.5850524902344,507.9780578613281 423.494140625,531.6144409179688 482.5850524902344,607.9780883789062 492.5850524902344,602.5234985351562\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#56ad43cd-fecb-4e77-ae6b-1a3706c43398"
+  },
+  "#da5c0adf-649e-43e7-98f6-59fe8c94f4d3": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"474.4032287597656,507.0689697265625 479.8577880859375,586.159912109375 492.5850524902344,587.0689697265625 511.67596435546875,512.5234985351562\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#da5c0adf-649e-43e7-98f6-59fe8c94f4d3"
+  },
+  "#6ab0e3ae-1fe1-48a4-b36e-7a901c345e6a": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "f"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"555.3123168945312,531.6144409179688 461.67596435546875,631.6144409179688 471.67596435546875,640.705322265625 597.1304931640625,587.0689697265625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#6ab0e3ae-1fe1-48a4-b36e-7a901c345e6a"
+  },
+  "#2c4b533c-9467-40a7-942c-a973c3b10ffb": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      },
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"625.2999877929688,537.0999755859375 629.9000244140625,600.7000122070312 644.4000244140625,600.7000122070312 648,540.7000122070312\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#2c4b533c-9467-40a7-942c-a973c3b10ffb"
+  },
+  "#b03a6ae1-1a98-417d-bed9-7d6f21bca9ba": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"648.9000244140625,544.2999877929688 650.7999877929688,578 662.5999755859375,578 668.9000244140625,545.2999877929688\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#b03a6ae1-1a98-417d-bed9-7d6f21bca9ba"
+  },
+  "#f3968560-71b1-4fcf-8f29-fc4b2d48b6ce": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"638.0396118164062,513.4326171875 634.4031982421875,544.3416748046875 683.494140625,545.2507934570312 685.3123168945312,532.5234985351562\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f3968560-71b1-4fcf-8f29-fc4b2d48b6ce"
+  },
+  "#08444d56-1832-4010-9b65-ff5e25bcb8e3": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"618.9000244140625,566.2000122070312 619.9000244140625,586.2000122070312 716.2000122070312,591.5999755859375 716.2000122070312,580.7000122070312\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#08444d56-1832-4010-9b65-ff5e25bcb8e3"
+  },
+  "#12fe3251-837c-4815-ab68-63b074a3b5d2": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"673.494140625,485.25079345703125 668.9486694335938,529.7962646484375 728.9486694335938,525.2507934570312 728.9486694335938,516.159912109375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#12fe3251-837c-4815-ab68-63b074a3b5d2"
+  },
+  "#b83f537c-4ea9-4638-9f60-48a6159cb76c": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"696.2000122070312,518.9000244140625 700.7999877929688,602.5 712.5999755859375,603.4000244140625 720.7999877929688,518\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#b83f537c-4ea9-4638-9f60-48a6159cb76c"
+  },
+  "#d1fba06d-3948-4ed5-ad36-0afb592cd078": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"719.8577880859375,514.3416748046875 723.494140625,605.2507934570312 734.4031982421875,604.3416748046875 755.3123168945312,516.159912109375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d1fba06d-3948-4ed5-ad36-0afb592cd078"
+  },
+  "#bc0ec2d6-3c72-4072-b4ff-8acc127645b7": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"666.221435546875,587.0689697265625 662.5850219726562,631.6144409179688 782.5850219726562,622.5234985351562 783.494140625,611.6144409179688\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#bc0ec2d6-3c72-4072-b4ff-8acc127645b7"
+  },
+  "#2ffbde34-b2e7-4e54-a75d-0c88d898a681": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"874.4031982421875,486.1598815917969 843.494140625,511.61444091796875 868.9486694335938,547.9780883789062 878.9486694335938,537.0689697265625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#2ffbde34-b2e7-4e54-a75d-0c88d898a681"
+  },
+  "#846d73d5-c98a-48ec-b40c-11ef73cbc67a": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"864.4000244140625,541.5999755859375 858,636.2000122070312 869.9000244140625,637.0999755859375 876.2000122070312,545.2999877929688\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#846d73d5-c98a-48ec-b40c-11ef73cbc67a"
+  },
+  "#5141f596-ca9e-4dda-8079-636dda9bba47": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"780.766845703125,527.9780883789062 774.4031982421875,577.0689697265625 864.4031982421875,577.0689697265625 862.5850219726562,568.8871459960938\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#5141f596-ca9e-4dda-8079-636dda9bba47"
+  },
+  "#9dd6ef26-321e-4fdc-996e-7365c5cdffaf": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"817.1304931640625,566.159912109375 817.1304931640625,580.705322265625 867.1304931640625,586.159912109375 868.9486694335938,577.0689697265625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#9dd6ef26-321e-4fdc-996e-7365c5cdffaf"
+  },
+  "#5ea51241-b77a-4b95-aba0-e80a8feb9404": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"819.8577880859375,545.2507934570312 820.766845703125,557.0689697265625 862.5850219726562,562.5234985351562 866.2213745117188,553.4326171875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#5ea51241-b77a-4b95-aba0-e80a8feb9404"
+  },
+  "#30585a4f-cd58-4179-a891-857c29e9282b": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"28.58072853088379,643.774169921875 46.76254653930664,689.2286987304688 63.126182556152344,693.774169921875 74.03527069091797,661.9559936523438\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#30585a4f-cd58-4179-a891-857c29e9282b"
+  },
+  "#2c46cad4-f2bf-47a4-b926-78178176a818": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"32.21709060668945,684.6832275390625 28.58072853088379,757.4105224609375 44.03527069091797,758.319580078125 64.94436645507812,691.046875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#2c46cad4-f2bf-47a4-b926-78178176a818"
+  },
+  "#aae1702f-1f8f-4778-9b9c-f1855c590f37": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"63.126182556152344,667.4105224609375 66.76254272460938,705.5923461914062 85.85345458984375,707.4105224609375 101.30799865722656,675.5923461914062\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#aae1702f-1f8f-4778-9b9c-f1855c590f37"
+  },
+  "#e93c8ba3-0ee4-4660-ac14-1b6414c529f2": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"64.94436645507812,701.046875 49.48981857299805,776.5014038085938 68.58072662353516,778.319580078125 90.39891052246094,702.8650512695312\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e93c8ba3-0ee4-4660-ac14-1b6414c529f2"
+  },
+  "#f7f0fcce-2860-4742-ad7a-3d6eb91081fa": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"180.39891052246094,686.5014038085938 160.39891052246094,711.9559326171875 219.48980712890625,778.319580078125 225.85345458984375,764.6832275390625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f7f0fcce-2860-4742-ad7a-3d6eb91081fa"
+  },
+  "#d9bba051-8d0f-4480-bad6-a5bc043deb93": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"135.85345458984375,684.6832275390625 132.2170867919922,737.4105224609375 190.39891052246094,730.1377563476562 192.2170867919922,719.2286987304688\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d9bba051-8d0f-4480-bad6-a5bc043deb93"
+  },
+  "#74f01e54-2fe5-4f81-926a-016ead700369": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"244,637.4000244140625 214.89999389648438,666.5 274,734.7000122070312 283.1000061035156,727.4000244140625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#74f01e54-2fe5-4f81-926a-016ead700369"
+  },
+  "#ac379d4b-170d-48ff-b0e9-5403db15fb66": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"204.03526306152344,669.2286987304688 201.30799865722656,693.774169921875 248.58071899414062,696.5014038085938 249.48980712890625,691.046875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ac379d4b-170d-48ff-b0e9-5403db15fb66"
+  },
+  "#72b4a2ad-3ba8-4e4a-9756-f4c55c9fd029": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"204,693.7999877929688 203.10000610351562,708.2999877929688 249.5,712.9000244140625 249.5,702.9000244140625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#72b4a2ad-3ba8-4e4a-9756-f4c55c9fd029"
+  },
+  "#54e938b6-d3c0-4d19-8944-f8e894da12d6": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"201.30799865722656,719.2286987304688 203.1261749267578,704.6832275390625 249.48980712890625,713.774169921875 244.94435119628906,721.9559326171875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#54e938b6-d3c0-4d19-8944-f8e894da12d6"
+  },
+  "#7ae4a67d-210a-4e79-bf95-2f70417861df": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"194.89999389648438,716.5 195.89999389648438,732.9000244140625 240.39999389648438,732.9000244140625 241.3000030517578,726.5\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#7ae4a67d-210a-4e79-bf95-2f70417861df"
+  },
+  "#1e8ed6cf-6eab-4c38-8011-0524183b1714": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "f"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "PaleoCode",
+        "value": "",
+        "dimensions": {
+          "x": 888,
+          "y": 974
+        }
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"255.89999389648438,677.4000244140625 208.60000610351562,799.2000122070312 222.1999969482422,808.2999877929688 299.5,701\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#1e8ed6cf-6eab-4c38-8011-0524183b1714"
+  },
+  "#375e2f60-1dcb-49d5-a35f-cb2a627ea574": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"360.3999938964844,658.2999877929688 362.20001220703125,782.9000244140625 378.6000061035156,782.9000244140625 399.5,660.0999755859375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#375e2f60-1dcb-49d5-a35f-cb2a627ea574"
+  },
+  "#9df2fa65-afda-4c14-a4f4-376d661021fb": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"385.8999938964844,705.5999755859375 394.8999938964844,785.5999755859375 408.6000061035156,786.5 425.8999938964844,708.2999877929688\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#9df2fa65-afda-4c14-a4f4-376d661021fb"
+  },
+  "#e921ff9a-1374-47d4-92db-b96a83ed5f66": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"394.8999938964844,668.2999877929688 398.6000061035156,709.2000122070312 417.70001220703125,710.0999755859375 430.3999938964844,669.2000122070312\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e921ff9a-1374-47d4-92db-b96a83ed5f66"
+  },
+  "#62282f12-87d2-428d-a81f-22c949cf2a7b": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"518.5806884765625,658.319580078125 517.671630859375,691.9559936523438 564.0352783203125,694.6832275390625 564.0352783203125,684.6832275390625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#62282f12-87d2-428d-a81f-22c949cf2a7b"
+  },
+  "#267a73c7-1dea-4888-bd73-a1c50a4834c5": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"512.2171020507812,690.1377563476562 512.2171020507812,708.319580078125 557.671630859375,710.1377563476562 558.5806884765625,704.6832275390625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#267a73c7-1dea-4888-bd73-a1c50a4834c5"
+  },
+  "#921a969a-d8ba-4476-854f-70c50f02c3a7": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"507.70001220703125,701 507.70001220703125,723.7999877929688 558.5999755859375,725.5999755859375 558.5999755859375,717.4000244140625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#921a969a-d8ba-4476-854f-70c50f02c3a7"
+  },
+  "#3ff32426-794c-4ea9-9e0d-5087b03b7e91": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"505.8999938964844,721 504.8999938964844,737.4000244140625 560.4000244140625,736.5 559.5,728.2999877929688\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#3ff32426-794c-4ea9-9e0d-5087b03b7e91"
+  },
+  "#737a333f-dad6-4f8d-b754-7b15f13b8a92": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"490.3999938964844,731 489.5,767.4000244140625 595.9000244140625,767.4000244140625 592.2000122070312,759.2000122070312\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#737a333f-dad6-4f8d-b754-7b15f13b8a92"
+  },
+  "#9917d0c3-30a5-4984-abba-15a20dd9bf1c": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"560.4000244140625,675.5999755859375 564,792 575.9000244140625,793.7999877929688 595.9000244140625,678.2999877929688\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#9917d0c3-30a5-4984-abba-15a20dd9bf1c"
+  },
+  "#f55a2f1e-d230-4bc2-af1e-827c0614b756": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"592.2000122070312,666.5 591.2999877929688,695.5999755859375 649.5,687.4000244140625 650.4000244140625,675.5999755859375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#f55a2f1e-d230-4bc2-af1e-827c0614b756"
+  },
+  "#e173adb1-1793-4a29-9fe5-52f5c06b92fd": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"607.671630859375,691.9559936523438 605.8534545898438,721.046875 692.217041015625,717.4105224609375 692.217041015625,708.319580078125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e173adb1-1793-4a29-9fe5-52f5c06b92fd"
+  },
+  "#c016907f-0c5b-40f0-868b-a0b1b896d6f0": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "PaleoCode",
+        "value": "",
+        "dimensions": {
+          "x": 888,
+          "y": 974
+        }
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"599.5,716.5 589.5,736.5 657.7000122070312,764.7000122070312 660.4000244140625,754.7000122070312\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c016907f-0c5b-40f0-868b-a0b1b896d6f0"
+  },
+  "#6ea63c41-f7c4-4055-9271-4d3442e09b66": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"645.8534545898438,664.6832275390625 658.5806884765625,807.4105224609375 673.1261596679688,807.4105224609375 696.7625122070312,667.4105224609375\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#6ea63c41-f7c4-4055-9271-4d3442e09b66"
+  },
+  "#55c8f55d-7d76-4e12-a22c-515f813c9536": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "c"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"734.0352783203125,695.5923461914062 705.8534545898438,717.4105224609375 751.3079833984375,761.9559326171875 762.2171020507812,752.8650512695312\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#55c8f55d-7d76-4e12-a22c-515f813c9536"
+  },
+  "#4c20d3f7-3145-4465-b9b1-36fe5b4842ef": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"693.1261596679688,686.5014038085938 689.4898071289062,735.5923461914062 734.0352783203125,731.046875 734.9443969726562,711.9559936523438\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#4c20d3f7-3145-4465-b9b1-36fe5b4842ef"
+  },
+  "#eb05c17a-b28a-411f-8b70-f16fe10c5421": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"746.7625732421875,705.5923461914062 747.671630859375,732.8650512695312 825.8534545898438,731.046875 828.5807495117188,712.8650512695312\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#eb05c17a-b28a-411f-8b70-f16fe10c5421"
+  },
+  "#54b10888-7a06-4273-b500-6329be9969ab": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"736.7625732421875,671.9559936523438 743.1261596679688,805.5923461914062 756.7625732421875,805.5923461914062 801.3079833984375,678.319580078125\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#54b10888-7a06-4273-b500-6329be9969ab"
+  },
+  "#8134e742-486e-4e8e-ad32-63b2be784dcf": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "w"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"862.2000122070312,694.7000122070312 821.2999877929688,714.7000122070312 821.2999877929688,731 857.7000122070312,757.4000244140625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#8134e742-486e-4e8e-ad32-63b2be784dcf"
+  },
+  "#ea742deb-9352-4840-b4c7-8546f5e59f23": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"132.2171173095703,843.7741088867188 134.03529357910156,887.4104614257812 154.9443817138672,892.8650512695312 159.48983764648438,846.5014038085938\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ea742deb-9352-4840-b4c7-8546f5e59f23"
+  },
+  "#4b9d0caf-dd7e-4d34-b540-5aa3c8a1dc34": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"119.5,806.5 134,852.9000244140625 154.89999389648438,853.7999877929688 165.89999389648438,812\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#4b9d0caf-dd7e-4d34-b540-5aa3c8a1dc34"
+  },
+  "#8b5b8764-bd53-49e3-8b5c-fdec95847459": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"179.5,812.9000244140625 197.6999969482422,923.7999877929688 211.3000030517578,923.7999877929688 236.8000030517578,819.2000122070312\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#8b5b8764-bd53-49e3-8b5c-fdec95847459"
+  },
+  "#860f1540-6ff1-4176-ad5a-591d7ec5c7a2": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"546.7999877929688,870.0999755859375 546.7999877929688,906.5 742.2000122070312,901 744,882.9000244140625\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#860f1540-6ff1-4176-ad5a-591d7ec5c7a2"
+  },
+  "#73f0dcba-fcee-442f-8d9b-f5e02c417c25": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "b"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"548.5807495117188,824.6832275390625 547.671630859375,856.5014038085938 736.7625732421875,855.59228515625 737.671630859375,842.8650512695312\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#73f0dcba-fcee-442f-8d9b-f5e02c417c25"
+  },
+  "#dd10f1e7-24d0-4eb9-92d2-a6cc540fe363": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"586.7625732421875,821.9559326171875 595.8534545898438,937.4104614257812 612.2171020507812,938.319580078125 621.3079833984375,821.9559326171875\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#dd10f1e7-24d0-4eb9-92d2-a6cc540fe363"
+  },
+  "#3b1592bf-8d38-4864-a631-6ee00482ee68": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "SpecificResource",
+        "purpose": "classifying",
+        "source": {
+          "id": "http://purl.org/cuneiform/Wedge",
+          "label": "Wedge"
+        }
+      },
+      {
+        "type": "TextualBody",
+        "purpose": "Wedgetype",
+        "value": "a"
+      }
+    ],
+    "target": {
+      "source": "https://gitlab.rlp.net/api/v4/projects/16599/repository/files/renderings%2FKurth_ME-Nr-29-40%2FKurth_ME_Nr_29(40)_03_front.png/raw?ref=master&access_token=jPrirRnX9FKSs7yxQKCt",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"733.1261596679688,811.9559326171875 745.8534545898438,934.6832275390625 761.3079833984375,933.7741088867188 779.4898071289062,810.1377563476562\" /></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#3b1592bf-8d38-4864-a631-6ee00482ee68"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "#d4549923-44c0-463e-827c-66bb7f17b1a1": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Ein Polygon!",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1186.806640625,956.5057373046875 1701.691650390625,1094.915771484375 1961.9024658203125,690.7586059570312 1059.4693603515625,458.2298583984375 649.77587890625,690.7586059570312 350.81036376953125,906.6781616210938 655.3123168945312,950.9693603515625\"></polygon></svg>"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#d4549923-44c0-463e-827c-66bb7f17b1a1"
+  },
+  "#0ea63580-6a6c-4215-950d-abc793591afe": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Ein Rechteck!",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:877.300048828125,1560.5999755859375,1010.50341796875,400.6138916015625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#0ea63580-6a6c-4215-950d-abc793591afe"
+  },
+  "#89a9b5ca-35fe-4ba3-9197-1d78ce048062": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Knie",
+        "purpose": "commenting"
+      },
+      {
+        "type": "TextualBody",
+        "value": "K\u00c3\u00b6rperteil",
+        "purpose": "tagging"
+      }
+    ],
+    "target": {
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:638.1289672851562,2236.176025390625,334.84002685546875,388.7412109375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#89a9b5ca-35fe-4ba3-9197-1d78ce048062"
+  },
+  "#349b05df-e438-481e-a521-7d641dc589fe": {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Fuss",
+        "purpose": "commenting"
+      },
+      {
+        "type": "TextualBody",
+        "value": "K\u00c3\u00b6rperteil",
+        "purpose": "tagging"
+      }
+    ],
+    "target": {
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:719.5702514648438,3024.203125,540.4057006835938,282.35546875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#349b05df-e438-481e-a521-7d641dc589fe"
+  }
+}

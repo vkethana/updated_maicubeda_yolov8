@@ -8,5 +8,5 @@ I didn't upload the tablet images because of GitHub restrictions on file sizes.
 The repository does not work out of the box because of the image size restrictions I mentioned earlier. 
 1) Download the MaiCuBeDa tablet images. Extract them into `datasets/my_data/images`. The link to the original dataset is here: https://heidata.uni-heidelberg.de/dataset.xhtml?persistentId=doi:10.11588/data/QSNIQ2
 2) Mass rename the image files so that the txt files in `datasets/my_data/annotations` are *exactly* the same as the png files in `datasets/my_data/images/`, excluding extensions. In other words, every png file in `images/` needs a corresponding txt image in `annotations/`. The scripts in `dataset_generation_files/misc` can help with this.
-3) Run `cd yolov8` and then `yolo detect train data=[my_data yaml](my_data.yaml) model=yolov8n.pt epochs=100 imgsz=640`, adjusting the epoch count as necessary.
+3) Run `cd yolov8` and then `yolo detect train data=my_data.yaml model=yolov8n.pt epochs=100 imgsz=640`, adjusting the epoch count as necessary.
 4) For more info, see this link: https://docs.ultralytics.com/datasets/detect/#ultralytics-yolo-format

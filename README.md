@@ -1,6 +1,6 @@
 # YoloV8 Model to Draw Bounding Boxes
 This model is being trained using YoloV8. The dataset is from MaiCuBeDa. 
-Important: The Python file `make_yolo_readable_dataset.py` does not work currently because I changed the file structure of the GitHub repo. As such, the program is currently referencing nonexistent files. It would not take much work to fix it, though.
+Important: The Python file `make_yolo_readable_dataset.py` does not work currently because I changed the file structure of the GitHub repo. As such, the program is currently referencing nonexistent files. This can be fixed by redownloading the relevant files and adjusting the file paths accordingly.
 
 I didn't upload the tablet images because of GitHub restrictions on file sizes.
 
